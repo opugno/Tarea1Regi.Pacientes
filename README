@@ -24,4 +24,13 @@ Dado que el sistema está diseñado para ser accesible y fácil de probar, recom
  - Mostrar de la lista de pacientes, ordenada por prioridad y por hora de llegada de paciente.
  - Mostrar el siguiente paciente en la lista de espera (ordenada previamente).
  - Mostrar los pacientes en la lista de espera, para una prioridad especial.
+
+°° Problemas conocidos °°
+ - Al momento de ingresar la edad del paciente, si en vez de ingresar un número ingresas una letra, se salta directamente al "Presione tecla para continuar" y omite la pregunta a "Ingrese los síntomas del paciente".
+
+°° A mejorar °°
+ - Permitir la edición de los datos de los pacientes de una manera más eficiente.
+ - Implementar una estructura del codigo mas eficiente en las funciones.
+
+*°.~ EJEMPLO DE USO ~.°*
  
