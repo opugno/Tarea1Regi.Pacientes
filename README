@@ -33,12 +33,48 @@ Dado que el sistema está diseñado para ser accesible y fácil de probar, recom
  - Implementar una estructura del codigo mas eficiente en las funciones.
 
 *°.~ EJEMPLO DE USO ~.°*
-
+=============================================================
 **Paso 1: Registrar un Nuevo Paciente**
+
 Se comienza registrando un nuevo paciente que acaba de llegar al hospital.
+El sistema registra a Ana Martínez con una prioridad inicial "Bajo" y guarda la hora actual de registro.
 
 Opción seleccionada: 1) Registrar paciente
 Ingrese el nombre del paciente: Ana Martínez
 Ingrese la edad del paciente: 29
 Ingrese el síntoma del paciente: Dolor abdominal agudo
- 
+=============================================================
+**Paso 2: Asignar Prioridad a un Paciente**
+
+Tras una evaluación inicial, el usuaio determina el estado de prioridad. para luego ordenar de mayor a menor y por hora de llegada.
+
+Opción seleccionada: 2) Asignar prioridad a paciente
+Ingrese el nombre del paciente: Ana Martínez
+Ingrese la nueva prioridad del paciente.\nRecuerde que prioridad BAJA (1), prioridad MEDIA (2) y prioridad ALTA (3) : 2
+=============================================================
+**Paso 3: Ver la Lista de Espera**
+
+El usuario revisa la lista de espera para ver todos los pacientes y sus prioridades.
+
+Opción seleccionada: 3) Mostrar lista de espera
+Nombre del Paciente    : Ana Martínez.
+El paciente tiene prioridad MEDIA.
+=============================================================
+**Paso 4: Atender al Siguiente Paciente**
+
+Ana Martínez es llamada para ser atendida basándose en su prioridad.
+
+Opción seleccionada: 4) Atender al siguiente paciente
+El siguiente paciente en la lista de espera es:
+Ana Martínez.
+Edad ...
+Sintomas ...
+El paciente esta siendo atendido.
+==============================================================
+**Paso 5: Mostrar pacientes por prioridad**
+
+Se hace una consulta al usuario para que ingrese la prioridad requeridad, y se muestra por pantalla los pacientes cuyas prioridades son iguales.
+
+Por favor ingrese una prioridad válida.
+Paciente(s) con la prioridad deseada.
+nombre, edad.
