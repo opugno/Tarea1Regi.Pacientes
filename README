@@ -1,1 +1,7 @@
-Tarea 1 --Registro de Pacientes--
+TAREA 1 "Sistema de Gestión de Pacientes en Hospital"
+
+*°.~ DESCRIPCIÓN ~.°*
+Este codigo permite la gestión de pacientes en un hospital. 
+Cuenta con varias opciones/posibilidades para elegir por los usuarios, tales como registrar paciente, mostrar lista de espera, o mostrar por prioridades, entre otras opciones.
+
+
