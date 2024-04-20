@@ -74,19 +74,6 @@ void registrar_paciente(List *pacientes)
   newPaciente -> arrivalTime = time(NULL); // se inicializa el tiempo de ingreso del paciente
 
   list_pushBack(pacientes, newPaciente); //se guardan los datos
-
-  /*imprimir lista
-  tipoPaciente *current = list_first(pacientes);
-  printf("\n=====================================\n");
-  while (current != NULL) 
-  {
-    printf("Nombre   : %s.\n", current -> name);
-    printf("Edad     : %d años.\n", current -> age);
-    printf("Sintomas : %s\n", current -> simptoms);
-    printf("Prioridad: %d.\n", current -> priority);
-    current = list_next(pacientes);
-    printf("=====================================\n");
-  }*/
 }
 
 //ordenamiento de la prioridades
