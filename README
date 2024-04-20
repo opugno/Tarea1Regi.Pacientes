@@ -33,4 +33,12 @@ Dado que el sistema está diseñado para ser accesible y fácil de probar, recom
  - Implementar una estructura del codigo mas eficiente en las funciones.
 
 *°.~ EJEMPLO DE USO ~.°*
+
+**Paso 1: Registrar un Nuevo Paciente**
+Se comienza registrando un nuevo paciente que acaba de llegar al hospital.
+
+Opción seleccionada: 1) Registrar paciente
+Ingrese el nombre del paciente: Ana Martínez
+Ingrese la edad del paciente: 29
+Ingrese el síntoma del paciente: Dolor abdominal agudo
  
