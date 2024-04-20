@@ -10,11 +10,18 @@ Todo esto se basa en un orden por prioridad, de modo que los pacientes con neces
 
 Dado que el sistema está diseñado para ser accesible y fácil de probar, recomendamos usar repl.it para una rápida configuración y ejecución. Sigue estos pasos para comenzar:
 
-1. Visita Repl.it.
-2. Crea una nueva cuenta o inicia sesión si ya tienes una.
-3. Una vez en tu dashboard, selecciona "New Repl" y elige "Import from GitHub".
-4. Pega la URL del repositorio: `https://github.com/opugno/Tarea1Regi.Pacientes.git`.
-5. Repl.it clonará el repositorio y preparará un entorno de ejecución.
-6. Presiona el botón "Run" para compilar y ejecutar la aplicación.
+ 1. Visita Repl.it.
+ 2. Crea una nueva cuenta o inicia sesión si ya tienes una.
+ 3. Una vez en tu dashboard, selecciona "New Repl" y elige "Import from GitHub".
+ 4. Pega la URL del repositorio: `https://github.com/opugno/Tarea1Regi.Pacientes.git`.
+ 5. Repl.it clonará el repositorio y preparará un entorno de ejecución.
+ 6. Presiona el botón "Run" para compilar y ejecutar la aplicación.
 
 *°.~ FUNCIONALIDADES ~.°*
+
+ - Resgistro de pacientes con datos basicos y una aignación de prioridad inicial.
+ - Asignar nueva prioridad a los pacientes.
+ - Mostrar de la lista de pacientes, ordenada por prioridad y por hora de llegada de paciente.
+ - Mostrar el siguiente paciente en la lista de espera (ordenada previamente).
+ - Mostrar los pacientes en la lista de espera, para una prioridad especial.
+ 
