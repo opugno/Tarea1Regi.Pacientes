@@ -6,4 +6,6 @@ Este código permite la gestión de pacientes en un hospital.
 Ofrece varias opciones para que los usuarios elijan, tales como; registrar paciente, mostrar lista de espera o visualizar por prioridades, entre otras opciones.
 Todo esto se basa en un orden por prioridad, de modo que los pacientes con necesidades más urgentes, reciben una atencion mas rapida.
 
+*°.~ COMO COMPILAR Y EJECUTAR ~.°*
+
 
