@@ -1,19 +1,19 @@
-## TAREA 1 "Sistema de Gestión de Pacientes en Hospital"
+TAREA 1 "Sistema de Gestión de Pacientes en Hospital"
 
-## *°.~ DESCRIPCIÓN ~.°*
-````
+*°.~ DESCRIPCIÓN ~.°*
+
 Este código permite la gestión de pacientes en un hospital. 
 Ofrece varias opciones para que los usuarios elijan, tales como; registrar paciente, mostrar lista de espera o visualizar por prioridades, entre otras opciones.
 Todo esto se basa en un orden por prioridad, de modo que los pacientes con necesidades más urgentes, reciben una atencion mas rapida.
-````
-## *°.~ COMO COMPILAR Y EJECUTAR ~.°*
-````
-Dado que el sistema está diseñado para ser accesible y fácil de probar, recomendamos usar  para una rápida configuración y ejecución. Sigue estos pasos para comenzar:
 
-1. Visita [Repl.it](https://repl.it/).
+*°.~ COMO COMPILAR Y EJECUTAR ~.°*
+
+Dado que el sistema está diseñado para ser accesible y fácil de probar, recomendamos usar repl.it para una rápida configuración y ejecución. Sigue estos pasos para comenzar:
+
+1. Visita Repl.it.
 2. Crea una nueva cuenta o inicia sesión si ya tienes una.
 3. Una vez en tu dashboard, selecciona "New Repl" y elige "Import from GitHub".
-4. Pega la URL del repositorio: `https://github.com/username/sistema-gestion-pacientes.git`.
-5. [Repl.it](http://repl.it/) clonará el repositorio y preparará un entorno de ejecución.
+4. Pega la URL del repositorio: `https://github.com/opugno/Tarea1Regi.Pacientes.git`.
+5. Repl.it clonará el repositorio y preparará un entorno de ejecución.
 6. Presiona el botón "Run" para compilar y ejecutar la aplicación.
-````
+
